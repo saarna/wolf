@@ -8,7 +8,7 @@ What was used:
 
 Setup
 1. clone 
-clone git@github.com/saarna/wolf.git
+clone git@github.com:saarna/wolf.git
 2. install 
 npm i
 
