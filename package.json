@@ -1,0 +1,18 @@
+{
+  "name": "gymwolf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "testcafe chrome ./Tests",
+    "test:chrome:headless": "testcafe chrome.headless ./Tests",
+    "test:chrome:mobile": "testcade chrome:emulation:device=iphone X"
+  },
+  "keywords": [],
+  "author": "SS",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "testcafe": "^1.14.0"
+  }
+}
